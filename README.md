@@ -3,9 +3,9 @@ OTBI-based HR analytics dashboards for workforce planning, payroll costing, and 
 # OTBI HR Analytics & Executive Dashboards
 
 ## Overview
-This repository documents a set of interactive OTBI dashboards designed to support HR and Finance leadership with real-time workforce insights.
+This repository documents OTBI-based HR analytics dashboards that I built for multiple enterprise clients, including Florida Blue, to support data-driven decision-making in HR and Finance.
 
-## Dashboard Capabilities
+## Dashboard Capabilities (Delivered Across Clients)
 - Headcount trends by:
   - Department
   - Location
@@ -21,7 +21,7 @@ This repository documents a set of interactive OTBI dashboards designed to suppo
 - Scheduled BI Publisher reports
 - Role-based security aligned with Oracle HCM data security model
 
-## Business Impact
+## Business Impact (Across Clients)
 - Reduced manual reporting effort
 - Improved visibility into workforce planning
 - Faster data-driven decision making
